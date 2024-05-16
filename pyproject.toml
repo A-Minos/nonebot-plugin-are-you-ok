@@ -1,5 +1,5 @@
 [project]
-name = "nonebot-plugin-ping"
+name = "nonebot-plugin-are-you-ok"
 version = "0.1.0"
 description = "A simple plugin for confirming the status of bot."
 authors = [{ name = "shoucandanghehe", email = "wallfjjd@gmail.com" }]
@@ -92,4 +92,4 @@ mypy-init-return = true
 quote-style = 'single'
 
 [tool.nonebot]
-plugins = ['nonebot_plugin_ping']
+plugins = ['nonebot_plugin_are_you_ok']

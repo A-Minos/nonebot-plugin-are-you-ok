@@ -6,7 +6,7 @@ from nonebot.rule import to_me
 from .config import Config
 
 __plugin_meta__ = PluginMetadata(
-    name='nonebot-plugin-ping',
+    name='nonebot-plugin-are-you-ok',
     description='A simple plugin for confirming the status of bot.',
     usage='@bot ping',
     type='application',
